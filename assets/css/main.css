@@ -1,0 +1,115 @@
+body, .row{
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bar{
+  background-color: white;
+}
+
+.brand-logo{
+  color: pink;
+}
+
+.nav-bar a {
+   color: #01BFB3;
+}
+
+.welcome{
+  background-image: url(../img/welcome-banner.jpg);
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.first-section{
+  width: 100%;
+  height:100vh;
+}
+
+.title{
+  font-family: 'Pacifico', cursive;
+  text-shadow: 2px 2px #27D1DE;
+  color: #E686A2;
+  margin-right: 2%;
+}
+
+.subtitle{
+  font-family: 'Pacifico', cursive;
+  text-shadow: 2px 2px #27D1DE;
+  color: white;
+  margin-right: 2%;
+}
+
+.waves{
+  width: 100%;
+  margin-bottom: -1%;
+}
+
+.wave-png{
+  padding: 0;
+  margin: 0;
+  margin-top: 26%;
+}
+
+.row, .col {
+  padding: 0 !important;
+}
+
+.about{
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: #e686a2;
+  border-top: 10px solid #e686a2;
+}
+
+.about-title{
+  color: #27D1DE;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 2px 2px #ffffff;
+}
+
+.my-skills{
+  width: 100%;
+  height: 100vh;
+  background-color : #ffffff;
+}
+
+.sk-title{
+  background-color: #e686a2; 
+}
+
+.skills-title{
+  color: #ffffff;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 2px 2px #27D1DE;
+  margin-bottom: 3%;
+}
+
+.skill-cont{
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.portfolio{
+  width: 100%;
+  height:100vh;
+  background-color: #01BFB3;
+  margin-top: 6%;
+}
+
+.waves2{
+  width: 100%;
+  margin-bottom: -1%;
+}
+
+.portfolio{
+  color: #ffffff;
+  font-family: 'Pacifico', cursive;
+  text-shadow: 2px 2px #e686a2;
+  margin-bottom: 3%;
+}
