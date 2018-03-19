@@ -16,7 +16,7 @@ body, .row{
 }
 
 .welcome{
-  background-image: url(../img/welcome-banner.jpg);
+  background-image: url(../img/welcome-banner-edit.jpg);
   width: 100%;
   height: 100vh;
   background-position: center;
@@ -61,7 +61,7 @@ body, .row{
   padding: 0;
   width: 100%;
   height: 100vh;
-  background-color: #e686a2;
+  background-image: linear-gradient(#e686a2, #B55C80);
   border-top: 10px solid #e686a2;
 }
 
@@ -118,4 +118,42 @@ body, .row{
   width: 100%;
   height: 100vh;
   background-color: pink;
+}
+
+.first-site{
+  background-image: url(../img/sites/site1.jpg);
+  width: 50%;
+  height: auto;
+}
+
+.second-site{
+  background-image: url(../img/sites/site2.jpg);
+  width: 50%;
+  height: auto;
+}
+
+.third-site{
+  background-image: url(../img/sites/site3.jpg);
+  width: 50%;
+  height: auto;
+}
+
+.fourth-site{
+  background-image: url(../img/sites/site4.jpg);
+  width: 50%;
+  height: auto;
+}
+
+.fifth-site{
+  background-image: url(../img/sites/site5.jpg);
+  width: 50%;
+  height: auto;
+}
+
+.site-title{
+  color: black;
+}
+
+.carousel-item{
+  height: 100vh;
 }
