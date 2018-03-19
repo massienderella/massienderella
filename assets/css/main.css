@@ -62,7 +62,6 @@ body, .row{
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(#e686a2, #B55C80);
-  border-top: 10px solid #e686a2;
 }
 
 .about-title{
@@ -78,7 +77,7 @@ body, .row{
 }
 
 .sk-title{
-  background-color: #e686a2; 
+  background-color: #B55C80; 
 }
 
 .skills-title{

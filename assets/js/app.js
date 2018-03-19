@@ -7,6 +7,10 @@ $(".about").smoove({
   offset  : '15%',
 });
 
+$(".skills-title").smoove({
+  offset  : '15%',
+});
+
 $(".my-skills").smoove({
   offset  : '15%',
 });
